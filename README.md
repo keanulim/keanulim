@@ -1,5 +1,3 @@
-## Hi there 👋
-
-Berkeley stats student 
+stats @ uc berkeley
 
 interests: dunking
