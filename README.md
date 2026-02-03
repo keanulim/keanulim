@@ -1,3 +1,3 @@
-stats @ uc berkeley
+cs & stats @ uc berkeley
 
 interests: dunking
